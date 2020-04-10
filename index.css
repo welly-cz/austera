@@ -82,19 +82,9 @@ header div.call-to a {
 }
 
 header div.call-to a:hover {
-    display: block;
-    width: 215px;
-    height: 50px;
     background-color: white;
     color: #39b9ef;
     border: 1px solid #39b9ef;
-    border-radius: 24px;
-    text-align: center;
-    margin: 0 auto;
-    line-height: 50px;
-    font-size: 18px;
-    font-weight: bold;
-    text-decoration: none;
 }
 
 
@@ -150,19 +140,9 @@ section.our-services a.check {
 }
 
 section.our-services a.check:hover {
-    display: block;
-    font-weight: bold;
-    font-size: 16px;
     color: #2ebaee;
-    text-decoration: none;
     background: white;
-    text-align: center;
-    border-radius: 24px;
     border: 1px solid #2ebaee;
-    width: 150px;
-    height: 50px;
-    line-height: 50px;
-    margin: 65px auto;
 }
 
 
@@ -200,19 +180,9 @@ div.part1 a.show1 {
 }
 
 div.part1 a.show1:hover {
-    display: block;
-    font-weight: bold;
-    font-size: 16px;
     color: #2ebaee;
-    text-decoration: none;
     background: white;
-    text-align: center;
-    border-radius: 24px;
     border: 1px solid #2ebaee;
-    width: 150px;
-    height: 50px;
-    line-height: 50px;
-    margin: 50px 0px;
 }
 
 
@@ -259,19 +229,9 @@ div.part2 a.show2 {
 }
 
 div.part2 a.show2:hover {
-    display: block;
-    font-weight: bold;
-    font-size: 16px;
     color: white;
-    text-decoration: none;
     background: #2ebaee;
-    text-align: center;
-    border-radius: 24px;
     border: 1px solid white;
-    width: 150px;
-    height: 50px;
-    line-height: 50px;
-    margin: 50px 0px;
 }
 
 div.part2 div.part2-1 {
@@ -323,19 +283,9 @@ div.boy a.learn2 {
 }
 
 div.boy a.learn2:hover {
-    display: block;
-    font-weight: bold;
-    font-size: 16px;
     color: #2ebaee;
-    text-decoration: none;
     background: white;
     border: 1px solid #2ebaee;
-    text-align: center;
-    border-radius: 24px;
-    width: 150px;
-    height: 50px;
-    line-height: 50px;
-    margin: 50px 100px;
 }
 
 
@@ -385,14 +335,7 @@ div.fon3 p {
 }
 
 div.fon3 p:hover {
-    color: white;
-    font-size: 28px;
-    font-weight: bold;
-    height: 100%;
-    width: 100%;
     background: rgba(57, 157, 195, 0.7);
-    margin: 0px;
-    padding: 180px 65px 0px 65px;
 }
 
 
